@@ -1,6 +1,6 @@
 : 1
 name: libimmer
-version: 0.8.1+2
+version: 0.9.1-a.0.z
 type: lib,binless
 language: c++
 project: immer
